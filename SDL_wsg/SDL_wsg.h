@@ -130,11 +130,11 @@ inline bool in_rect(int x,int y,int _x,int _y,int _w,int _h)
 inline void do_nothing() {}
 
 
-typedef unsigned short		    State;
-typedef std::function<void()>	CallBack;
+typedef unsigned short State;
+typedef std::function<void()> CallBack;
 const State ACTIVE = 0x0001;
 const State ENTER = 0x0010;
-const State DOWN	 = 0x0100;
+const State DOWN = 0x0100;
 
 
 class Container;
