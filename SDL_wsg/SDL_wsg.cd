@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="wsg::Container" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAEAFCCAAAAAAAAIAAAAAAAAAAAgAg=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::Ctrl" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAAAAABAAAAAAAACAAAAAEIkQghiAAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::StaticText" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::SysLink" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAAAAAAAAAAAAAAAAAAAAAAAAAIIQAAAACAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::Panel" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAAAAAIAAAAAAAAAAAAAAAKBAAAAQAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::Button" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAEAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::PushButton" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAACAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::Runnable" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::Thread" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAAgCAAQAAAgAgAAAAAAAAAAIgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wsg::App" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAgAAAAAAAAMAAAACAAQAAACAIAKAAgAAQCAgAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__unnamed_struct_0004_1" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQABAAAAAAA=</HashCode>
+      <FileName>cst.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0004_2" Collapsed="true">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARIAAAAAAAAA=</HashCode>
+      <FileName>cst.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="RGB" Collapsed="true">
+    <Position X="5.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cst.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="HSL" Collapsed="true">
+    <Position X="1.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cst.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="wsg::State" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="wsg::CallBack" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="wsg::ConstChildIter" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SDL_wsg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="SimSun" Size="9" />
+</ClassDiagram>
